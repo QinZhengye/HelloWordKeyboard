@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Hardware/GC9A01/GC9A01_init.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hardware/GC9A01/GC9A01_init.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hardware/Inc/GC9A01.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hardware/Inc/lcdfont.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Hardware/Inc/lcdfont.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Hardware/Src/GC9A01.c" charset="UTF-8" />
+  </component>
+</project>
